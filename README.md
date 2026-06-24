@@ -3,9 +3,9 @@ This project will analyse global electricity generation and consumption data by 
 
 Summary of contents:
 
-Introduction
-Data Inspection and Cleaning
-Analysis and Answers to Questions
-Findings
-Recommendations and Conclusion
-References
+1. Introduction
+3. Data Inspection and Cleaning
+4. Analysis and Answers to Questions
+5. Findings
+6. Recommendations and Conclusion
+7. References
